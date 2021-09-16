@@ -1,5 +1,5 @@
 #### Oi, Sou Gabriel
-Estou cursando Analise e Desenvolvimento de Sistemas em Araraquara
+Estou cursando Analise e Desenvolvimento de Sistemas
 - 🌱 Atualmente estudo Desenvolvimento web backend em Java, Javascript e C# 
 - :books: Estudando backend com Spring-boot, JPA, NodeJS, Express.js, ASP.net Core
 - :desktop_computer:	 Basico de frontend - html, css, bootstrap, materialize
