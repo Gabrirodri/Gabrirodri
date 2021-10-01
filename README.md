@@ -1,7 +1,7 @@
 #### Oi, Sou Gabriel
 Estou cursando Analise e Desenvolvimento de Sistemas
 - 🌱 Atualmente estudo Desenvolvimento web backend em Java, Javascript e C# 
-- :books: Estudando backend com Spring-boot, JPA, NodeJS, Express.js, ASP.net Core
+- :books: Estudando backend com Spring-boot, JPA, NodeJS, Express.js, ASP.net 
 - :desktop_computer:	 Basico de frontend - html, css, bootstrap, materialize
 
 Estou em busca de aprender mais sobre desenvolvimento web, acompanho canais no you tube de programação, faço cursos pela udemy de Java com Spring, Javascript com NodeJs e C# com Asp.net core, Programação Orientada a Objetos, API Rest...
