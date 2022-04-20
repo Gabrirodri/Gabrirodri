@@ -1,8 +1,8 @@
-#### Oi, Sou Gabriel
-Cursando Analise e Desenvolvimento de Sistemas
-- 🌱 Estudando Desenvolvimento web - backend em Java, Javascript e C# 
-- :books: Estudando Backend com Spring-boot, JPA, NodeJS, Express.js
-- :desktop_computer:	Estudando Frontend - html, css, JS, bootstrap, materialize
+#### Hi, I'm Gabriel
+
+- 🌱 Learning web development - Java, Javascript e C# 
+- :books: Learning Backend with Spring-boot, JPA, NodeJS, Express.js
+- :desktop_computer:	Learning Frontend - Html, Css, JS, Bootstrap
 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" widtf="40" height="40" style="max-width:100%;margin: 0 2px;"></img>
@@ -14,10 +14,7 @@ Cursando Analise e Desenvolvimento de Sistemas
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="node" widtf="40" height="40" style="max-width:100%;margin: 0 2px;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-plain-wordmark.svg" alt="C" widtf="40" height="40" style="max-width:100%;margin: 0 2px;"></img>
 
-
-
-
-- Desenvolvimento em linguagem C e python para Arduino, PIC, Raspberry
+- Development Embedded System in C, python to Arduino, PIC, Raspberry
 
   
 <a href="https://www.linkedin.com/in/gabrirodri123/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
